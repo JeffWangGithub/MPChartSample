@@ -6,7 +6,7 @@ MPChart是一个第三方的绘图工具库，支持柱形图，折线图，平�
 其优点在于：
 - 使用简单，界面很清新
 - 与Achart相比，对动画的支持很好。
-![](http://www.glanwang.com/android/_image/mpchart%E7%BB%98%E5%9B%BE%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8/MPChartView.gif)
+![](https://github.com/JeffWangGithub/MPChartSample/blob/master/image/MPChartView.gif?raw=true)
 
 
 ###具体使用
