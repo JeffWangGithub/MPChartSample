@@ -2,12 +2,13 @@
 ###说明
 本实例是MPChart如何使用的一个Demo。
 ####MPChart
+
+![](https://github.com/JeffWangGithub/MPChartSample/blob/master/image/MPChartView.gif?raw=true)
+
 MPChart是一个第三方的绘图工具库，支持柱形图，折线图，平行图，网状图等。
 其优点在于：
 - 使用简单，界面很清新
 - 与Achart相比，对动画的支持很好。
-![](https://github.com/JeffWangGithub/MPChartSample/blob/master/image/MPChartView.gif?raw=true)
-
 
 ###具体使用
 1 xml或者代码声明View
